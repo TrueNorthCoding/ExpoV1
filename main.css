@@ -1,0 +1,32 @@
+/*Expo V1*/
+body {
+    padding: 4px;
+}
+.ejumbo {
+      background: whitesmoke;
+      width: 100%;
+      height: auto;
+      margin: auto;
+      border-radius: 5px;
+      padding: 4px;
+      box-shadow: 0px 5px 5px lightgray;
+}
+.elink-lg {
+      background: none;
+      text-decoration: none;
+      font-size: 24px;
+}
+.elink-med {
+     background: none;
+      text-decoration: none;
+      font-size: 16px;
+}
+.elink-sm {
+    background: none;
+      text-decoration: none;
+      font-size: 10px;
+}
+.elink-reg {
+   background: none;
+      text-decoration: none;
+}
